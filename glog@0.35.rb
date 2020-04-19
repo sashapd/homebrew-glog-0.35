@@ -1,4 +1,4 @@
-class Glog < Formula
+class GlogAT035 < Formula
   desc "Application-level logging library"
   homepage "https://github.com/google/glog"
   url "https://github.com/google/glog/archive/v0.3.5.tar.gz"
